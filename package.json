@@ -19,7 +19,7 @@
     "test": "karma start",
     "test:watch": "karma start --autoWatch=true --singleRun=false"
   },
-  "repository": "",
+  "repository": "https://github.com/fornitio/react-widget-currency-exchange-privatbank",
   "keywords": [],
   "author": "Your name here",
   "devDependencies": {
